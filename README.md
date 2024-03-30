@@ -1,4 +1,4 @@
-# A PRODUCT LANDING PAGE
+# A TECHNICAL DOCUMENTATION PAGE
 We created a product landing page to assist market musical instruments, specifically the tenor trombone, base trombone, and valve trombone.
 
 **PROJECT LINK:**  https://ray-b-ouamba.github.io/PRODUCT-LANDING-PAGE/
