@@ -25,6 +25,9 @@ We created an acts as a thorough manual that helps consumers or developers compr
 **TECHNICAL-DOCUMENTATION-PAGE:**
 https://ray-b-ouamba.github.io/TECHNICAL-DOCUMENTATION-PAGE/
 
+**PRODUCT-LANDING-PAGE:**
+ https://ray-b-ouamba.github.io/PRODUCT-LANDING-PAGE/
+
 **DENZEL-WASHINGTON-TRIBUTE-PAGE:**
 https://ray-b-ouamba.github.io/DENZEL-WASHINGTON-TRIBUTE-PAGE/
 
