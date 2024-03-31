@@ -14,8 +14,7 @@ We created an acts as a thorough manual that helps consumers or developers compr
 
 ## LESSONS LEARNED:
 * How to make responsive web designs that fit different screen sizes and devices using media queries.
-*
-* use main element How to use Media queries to create responsive web designs that adjust to various devices and screen sizes.
+
 * How to utilize CSS Flexbox, to simplifying the creation of flexible, responsive, and visually appealing layouts. 
 * How to use iframe element to :
     * Integrating external content like films, maps, and social network feeds.
