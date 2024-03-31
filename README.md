@@ -7,7 +7,6 @@ We created an acts as a thorough manual that helps consumers or developers compr
 * HTML
 * CSS
 
-
 ## OPTIMIZATIONS
 * Bring Javascript into the project to give it a more dynamic aspect.
 
