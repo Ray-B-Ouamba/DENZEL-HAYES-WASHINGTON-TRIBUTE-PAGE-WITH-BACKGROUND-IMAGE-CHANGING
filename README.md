@@ -14,12 +14,7 @@ We created an acts as a thorough manual that helps consumers or developers compr
 ## LESSONS LEARNED:
 * How to make responsive web designs that fit different screen sizes and devices using media queries.
 * Master Nav-bar element.  
-* How to use iframe element to :
-    * Integrating external content like films, maps, and social network feeds.
-    * Displaying content from a different domain or website.
-    * Creating inline advertisements or promotional content.
-    * Separating material on a web page, such as using a sidebar or navigation menu.
-  
+
 ## OTHER PROJECT:
 **TECHNICAL-DOCUMENTATION-PAGE:**
 https://ray-b-ouamba.github.io/TECHNICAL-DOCUMENTATION-PAGE/
