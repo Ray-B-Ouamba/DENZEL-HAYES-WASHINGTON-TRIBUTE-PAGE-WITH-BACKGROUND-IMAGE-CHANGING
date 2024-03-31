@@ -10,7 +10,6 @@ We created an acts as a thorough manual that helps consumers or developers compr
 ## OPTIMIZATIONS
 * Bring Javascript into the project to give it a more dynamic aspect.
 
-
 ## LESSONS LEARNED:
 * How to make responsive web designs that fit different screen sizes and devices using media queries.
 * Master Nav-bar element.  
