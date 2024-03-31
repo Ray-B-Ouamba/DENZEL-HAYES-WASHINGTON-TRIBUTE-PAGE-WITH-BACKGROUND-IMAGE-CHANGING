@@ -1,8 +1,7 @@
 # A TECHNICAL DOCUMENTATION PAGE
 We created an acts as a thorough manual that helps consumers or developers comprehend and make use of a system, software product, API, or technology. 
 
-**PROJECT LINK:**  https://ray-b-ouamba.github.io/PRODUCT-LANDING-PAGE/
-
+**PROJECT LINK:**  
 ## HOW IT'S MADE:
 ## TECH USED:
 * HTML
