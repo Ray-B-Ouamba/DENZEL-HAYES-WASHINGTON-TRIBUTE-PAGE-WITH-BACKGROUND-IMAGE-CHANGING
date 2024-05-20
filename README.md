@@ -1,5 +1,4 @@
 # DENZEL HAYES WASHINGTON TRIBUTE PAGE WITH BACKGROUND IMAGE CHANGING 
-We created an acts as a thorough manual that helps consumers or developers comprehend and make use of a system, software product, API, or technology. 
 
 **PROJECT LINK:**  https://ray-b-ouamba.github.io/TECHNICAL-DOCUMENTATION-PAGE/
 ## HOW IT'S MADE:
